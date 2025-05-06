@@ -5,9 +5,8 @@ this is a project to try to build a clone of google LLM.
 
 ### preview 
 
-<video width="320" height="240" controls alt='preview video'>
-  <source src="./preview.mp4" type="video/mp4">
-</video>
+![Preview of the project](./preview.gif)
+
 
 *note: if the preview in the README doesnt work, please refer to the `preview.mp4`*
 
